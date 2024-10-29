@@ -5,7 +5,6 @@
 - 🚀 I'm working toward a career in **Software Engineering**, with a passion for creativity and innovation.
 - 💡 I love coding that brings tech and creativity together, especially through **web development** and **creative coding**.
 
-> 🌱 With a curious mindset and a hands-on approach, I’m always striving to grow and bring fresh ideas to life.
 
 
 
