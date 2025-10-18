@@ -28,7 +28,7 @@
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/anh-vu-120879242/)
 [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/h.anh_vu/?hl=en)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=google-chrome)](https://personal-website-six-gilt.vercel.app/)
+
 
 
 ## 🤹 Hobbies
